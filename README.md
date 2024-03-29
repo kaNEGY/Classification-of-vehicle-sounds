@@ -1,26 +1,15 @@
 # Classification of vehicle sounds
 
 <!-- A catchy project logo or banner goes here -->
+## Main results
+![](pics/metrics_2.jpg)
+![](pics/metrics_1.jpg)
 
-![Project Banner](pics/metrics_2.jpg)
 
-## Description
+## Data
+The dataset contains a total of 5374 audio files. These files are labelled into seventeen classes, namely Truck idling, Siren 4, Car Idling, Tram Acceleration, Truck Acceleration, Moto Acceleration, Car Horn, Truck Horn, Siren 5, Truck Braking, Car acceleration, Tram, Moto Idling, Siren 1, Tram Ring, Car braking, Tram Braking, and each of the classes contains 200 to 511 files of 3 seconds in length. 
 
-Briefly describe your project: what it does, its purpose, and its goals. A good description is clear, short, and to the point.
-
-## Features
-
-- List of features
-- What makes your project stand out?
-
-## Visuals
-
-Include screenshots, gifs, or videos demonstrating your project. This could be:
-- Screenshots of the project in action
-- Gifs demonstrating functionalities
-- Link to a YouTube demo video
-
-![Project Screenshot](link-to-screenshot)
+![Project Screenshot]()
 
 ## Installation
 
