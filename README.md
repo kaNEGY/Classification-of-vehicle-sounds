@@ -10,6 +10,9 @@ The dataset contains a total of 5374 audio files. These files are labelled into 
 
 ![](pics/sample_data.jpg)
 
+## Confusion matrix of class prediction
+![](pics/confusion_matrix.jpg)
+
 ## Spectrograms
 
 ![](pics/spectrogram_1.jpg)
