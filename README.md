@@ -10,12 +10,7 @@ The dataset contains a total of 5374 audio files. These files are labelled into 
 
 ![](pics/sample_data.jpg)
 
-## Installation
+## Spectrograms
 
-Provide a step-by-step description of how to get a development environment running.
-
-```bash
-git clone https://yourprojectlink.git
-cd your-project-name
-npm install
-npm start
+![](spectrogram_1.jpg)
+![](spectrogram_2.jpg)
