@@ -12,5 +12,5 @@ The dataset contains a total of 5374 audio files. These files are labelled into 
 
 ## Spectrograms
 
-![](spectrogram_1.jpg)
-![](spectrogram_2.jpg)
+![](pics/spectrogram_1.jpg)
+![](pics/spectrogram_2.jpg)
